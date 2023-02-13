@@ -6,19 +6,19 @@ This is an individual project in order to improve my learning
 
 ### Install Dependencies
 
-```http
+```
   npm install
 ```
 
 ### Run Project
 
-```http
+```
   npm run dev
 ```
 
 ### Generate Build Project
 
-```http
+```
   npm run build
 ```
 
